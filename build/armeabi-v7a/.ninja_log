@@ -1,0 +1,16 @@
+# ninja log v7
+92	394	7850385895709289	CMakeFiles/MyLib.dir/src/hooks.cpp.o	f1c93e635d44afdd
+4	438	7850385894828409	CMakeFiles/MyLib.dir/aml/mod/config.cpp.o	19916734c7348b51
+12	898	7850385894909640	CMakeFiles/MyLib.dir/aml/mod/logger.cpp.o	8eaf1e371e6af913
+55	1316	7850385895332202	CMakeFiles/MyLib.dir/src/ModData.cpp.o	3cc5aab0f6fdbffc
+30	1645	7850385895090133	CMakeFiles/MyLib.dir/src/Logger.cpp.o	f67873c55c3bc117
+13	1598	7850418160316503	CMakeFiles/MyLib.dir/src/Mod.cpp.o	ef0c83db1be2041b
+26	1391	7850418160449415	CMakeFiles/MyLib.dir/src/TestWindow.cpp.o	7197fe315aaf0261
+27	1572	7850409592433569	CMakeFiles/MyLib.dir/src/main.cpp.o	edafc39c66985afd
+17	1505	7850418160356965	CMakeFiles/MyLib.dir/src/ModelLoader.cpp.o	56ec0182dfa90398
+7	1554	7850418160262199	CMakeFiles/MyLib.dir/src/CleoFunctions.cpp.o	2842edba3f8af35a
+1247	1356	7850422377015857	libParkedVehicles.so	604d39e9cec4ef91
+6	1247	7850422364614055	CMakeFiles/MyLib.dir/src/ParkingSpots.cpp.o	a7d71596ada56f6d
+10	1265	7850422916799947	CMakeFiles/MyLib.dir/src/ParkingSpots.cpp.o	a7d71596ada56f6d
+6	1306	7850422916759715	CMakeFiles/MyLib.dir/src/Mod.cpp.o	ef0c83db1be2041b
+1307	1424	7850422929762480	libParkedVehicles.so	604d39e9cec4ef91

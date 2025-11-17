@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\aml\\mod\\config.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\aml\\mod\\config.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml/mod/config.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/aml/mod/config.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\aml\\mod\\logger.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\aml\\mod\\logger.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml/mod/logger.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/aml/mod/logger.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\CleoFunctions.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\CleoFunctions.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/CleoFunctions.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/CleoFunctions.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\Logger.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\Logger.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/Logger.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/Logger.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\Mod.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\Mod.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/Mod.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/Mod.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\ModData.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\ModData.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/ModData.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/ModData.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\ModelLoader.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\ModelLoader.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/ModelLoader.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/ModelLoader.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\ParkingSpots.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\ParkingSpots.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/ParkingSpots.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/ParkingSpots.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\TestWindow.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\TestWindow.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/TestWindow.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/TestWindow.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\hooks.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\hooks.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/hooks.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/hooks.cpp.o"
+},
+{
+  "directory": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build",
+  "command": "C:\\android-ndk-r26d\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=armv7-none-linux-androideabi21 --sysroot=C:/android-ndk-r26d/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DMyLib_EXPORTS -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/aml -IC:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -std=gnu++17 -fPIC -Wall -O2 -o CMakeFiles\\MyLib.dir\\src\\main.cpp.o -c C:\\PC\\Projetos\\GTA_Mobile\\parked-vehicles-mobile\\src\\main.cpp",
+  "file": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/src/main.cpp",
+  "output": "C:/PC/Projetos/GTA_Mobile/parked-vehicles-mobile/build/CMakeFiles/MyLib.dir/src/main.cpp.o"
+}
+]

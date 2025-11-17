@@ -1,0 +1,9 @@
+{$CLEO .csi}
+
+//Made by DaniloSZK
+
+03A4: name_thread "ParkedVehicles"
+
+4D90: set_global_int_variable "open_parkedvehicles" value 1
+
+004E: terminate_this_script
