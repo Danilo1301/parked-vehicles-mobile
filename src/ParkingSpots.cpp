@@ -90,6 +90,13 @@ void ParkingSpots::CheckSpots()
         if (VehicleExistsNearby(spot->modelId, spot->x, spot->y, spot->z, 2.0f))
             continue;
 
+        if(!HAS_MODEL_LOADED(spot->modelId))
+        {
+            LOAD_MODEL(spot->modelId);
+            LOAD_REQUESTED_MODELS();
+            continue;
+        }
+
         int car = CREATE_CAR_AT(spot->modelId, spot->x, spot->y, spot->z);
 
         SET_CAR_Z_ANGLE(car, spot->angle);
